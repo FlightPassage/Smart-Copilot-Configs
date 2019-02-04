@@ -6,7 +6,7 @@ Since each SmartCopilot Profile is called smartcopilot.cfg, the files have been 
 ## Who Made These Files?
 These files were made by myself (FlightPassage). Unless stated below:  
 DA-42 HeliPilot7 (Chris Stewart)  
-B206 Joint Effort HeliPilot7 and Myself  
+B206 Joint effort HeliPilot7 and Myself  
 B407 KSmith_PE (Keith Smith)  
 IXEG 733 Updated by me but source layout was from the X-Pilot Forums  
 B732 Base by HeliPilot7 and Tony | Version 3 Updated by me  
